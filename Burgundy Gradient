@@ -1,3 +1,6 @@
+// This pieces contains the third change i made to the original code.
+
+
 void setup() {
   size(400, 300);
 }
